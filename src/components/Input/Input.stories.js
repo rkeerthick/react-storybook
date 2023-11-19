@@ -1,8 +1,10 @@
+
 import Input from "./Input";
 
 export default {
     title: 'Form/Input',
-    component: Input
+    component: Input,
+    // decorators: [story => <Center>{story()}</Center>]
 }
 
 export const Small = () => <Input variant="small">Small</Input>
