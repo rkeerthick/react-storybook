@@ -8,3 +8,5 @@ export default {
 export const Small = () => <Input variant="small">Small</Input>
 export const Medium = () => <Input variant="medium">Medium</Input>
 export const Large = () => <Input variant="large">Large</Input>
+
+Small.storyName = "Small Input"

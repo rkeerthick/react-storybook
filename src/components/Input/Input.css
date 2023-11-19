@@ -5,6 +5,8 @@
     font-size: 16px;
     color: lightslategray;
     outline: none;
+    display: block;
+    margin: 10px 0px;
 }
 
 .small {
